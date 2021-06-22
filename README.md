@@ -1,39 +1,27 @@
-# openblock
+# OH-OpenBlock-SIG
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+# 介绍
+为了扩展 OpenHarmony OS 在青少年编程和STEM教育中的应用范围，OpenBlock SIG 将移植基于Blockly的图形化编程语言的运行时到OpenHarmony OS上，并支持软总线、分布式等OpenHarmony OS 能力。
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+# 工作目标和范围
+ * 移植一个开源鸿蒙上JS引擎可以运行的Runtime
+ * 做一个鸿蒙的UI编辑器
+ * 实现一个从编辑到运行的整体工作流程所需的系统，包含IDE、 运行时等基础设施，以及设备自动发信、代码上传、工程管理等功能
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 组织会议
+
+* 目前视任务进度情况决定开会时间
+* 通过邮件申报议题(邮件列表暂未完善，请先发送至duzc2@163.com)
+
+# 成员
+
+## Maintainer列表
+
+* duzc2@163.com
+
+# 联系方式
+
+* 邮件列表: 暂无
+
